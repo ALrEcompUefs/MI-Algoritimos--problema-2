@@ -1,0 +1,1 @@
+Os arquivos de texto tem de estar na mesma pasta que o executavel pois não é especificado nenhum caminho na abertura dos arquivos em codigo
